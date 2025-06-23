@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "438598118756",
+    "project_id": "evandalism-ece1b",
+    "storage_bucket": "evandalism-ece1b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438598118756:android:09363392c9429199485e71",
+        "android_client_info": {
+          "package_name": "com.example.e_vandalism"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnrBm5x-UoF5HRf28He3MJV7y9FH-WEzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
